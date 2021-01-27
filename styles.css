@@ -34,6 +34,7 @@ body{
     width: 33.333%;
     width: 33.333%;
     width: 33.333%;
+    margin-bottom: 10px;
 }
 .piè_di_pagina {
     width:fit-content;
@@ -41,4 +42,24 @@ body{
 }
 h3 {
     margin: 5px;
+}
+.div_myself {
+    float: left;
+    width: 100%;
+    margin-left: 250px;
+    margin-bottom: 20px;
+}
+.myself {
+    float: left;
+    padding: 15px;
+    width: 400px;
+}
+h2 {
+    text-align: left;
+    padding-top: 30px;
+}
+p {
+    text-align: left;
+    margin: 3px;
+    margin-right: 550px;
 }
