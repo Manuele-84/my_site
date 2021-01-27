@@ -63,3 +63,11 @@ p {
     margin: 3px;
     margin-right: 550px;
 }
+.privacy {
+    text-align: center;
+}
+.p_privacy {
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: left;
+}
