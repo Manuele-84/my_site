@@ -13,7 +13,6 @@ a{
 .portfolio {
     width: 430px;
     margin-top: 20px;
-    margin: 5px;
     border: 1px solid black;
 }
 video {
@@ -31,10 +30,6 @@ body{
     text-align: center;
 }
 .immagini {
-    float: left;
-    width: 33.333%;
-    width: 33.333%;
-    width: 33.333%;
     margin-bottom: 10px;
 }
 .piè_di_pagina {
