@@ -39,14 +39,11 @@ body{
 h3 {
     margin: 5px;
 }
-.div_myself {
+.p_myself {
     float: left;
-    width: 100%;
     margin-bottom: 20px;
-    grid-template-columns: 500px;
 }
 .myself {
-    padding-left: 250px;
     width: 400px;
     border: 1px solid black;
 }
