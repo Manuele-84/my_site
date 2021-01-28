@@ -46,9 +46,7 @@ h3 {
     grid-template-columns: 500px;
 }
 .myself {
-    float: left;
     padding-left: 250px;
-    margin: 15px;
     width: 400px;
     border: 1px solid black;
 }
