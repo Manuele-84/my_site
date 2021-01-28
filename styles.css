@@ -39,22 +39,17 @@ body{
 h3 {
     margin: 5px;
 }
-.p_myself {
-    float: right;
-    margin-bottom: 20px;
-}
 .myself {
     width: 400px;
     border: 1px solid black;
 }
 h2 {
-    text-align: left;
+    text-align: center;
     padding-top: 30px;
 }
 p {
-    text-align: left;
-    margin: 3px;
-    margin-right: 550px;
+    text-align: center;
+    margin-bottom: 3px;
 }
 .privacy {
     text-align: center;
