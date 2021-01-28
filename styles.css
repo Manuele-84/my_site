@@ -43,6 +43,7 @@ h3 {
     float: left;
     width: 100%;
     margin-bottom: 20px;
+    grid-template-columns: 500px;
 }
 .myself {
     float: left;
