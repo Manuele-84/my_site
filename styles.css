@@ -42,11 +42,11 @@ h3 {
 .div_myself {
     float: left;
     width: 100%;
-    margin-left: 250px;
     margin-bottom: 20px;
 }
 .myself {
     float: left;
+    padding-left: 250px;
     margin: 15px;
     width: 400px;
     border: 1px solid black;
